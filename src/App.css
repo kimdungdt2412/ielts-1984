@@ -1,0 +1,12 @@
+.App {
+  font-family: Arial, sans-serif;
+}
+
+.blank {
+  min-width: 60px;
+}
+
+.result {
+  font-size: 1rem;
+  margin-top: 1rem;
+}
